@@ -1,0 +1,6 @@
+##################### STATUS DO PEDIDO #####################
+
+PEDIDO Nº: 947123  
+CLIENTE: Lucas Almeida  
+STATUS: Em Separação  
+PREVISÃO DE ENTREGA: 26/04/2025
