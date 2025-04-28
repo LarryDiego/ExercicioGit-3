@@ -6,3 +6,10 @@ CIDADE: Ingá-PB
 HOBBIES: Jogar basquete, assistir NBA, desenvolver projetos pessoais, tocar violão, maratonar séries
 OBJETIVOS: Lançar um SaaS escalável, aprimorar habilidades em IA aplicada e contribuir para projetos open source
 VALORES: Ética, inovação, colaboração, aprendizado contínuo
+
+NOME COMPLETO: Larry
+IDADE: 25 anossdf
+CIDADE: Ingá-PBsdf
+HOBBIES: Jogar basquete, assistir NBA, desenvolver projetos pessoais, tocar violão, maratonar sériessdf
+OBJETIVOS: Lançar um SaaS escalável, aprimorar habilidades em IA aplicada e contribuir para projetos open sourcesdf
+VALORES: Ética, inovação, colaboração, aprendizado contínuosdf
